@@ -19,11 +19,21 @@ TKTK
 * And device support for full HTML functionality is a travesty
 * But as Chris showed us, sometimes it's so much more powerful to see something in action
 * And we need full flexibility of Web to show these things
-TKTK
+* And in fact, we've published books to the Web before
+* But they've all been custom projects, special snowflakes that existed outside of our normal pubishing workflow
+* That's silly.
+* The Web is where people read.
+* Publishing and Web dev are the same - distributing information
 * But we don't have the budget to build custom products for every format
-* We need our content to be responsive
-* And we need our publishing system to be able to be flexible enough to handle just about any kind of interactive example an author can think of
-* So we built what is essentially a CMS that can publish responsively
+* Most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
+* But we're not getting 4x the sales
+* In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
+* So we need our content to be responsive
+* We need to be able to publish the same source file to every format that customers want to read on
+* And we want that content to be the absolute best and most effective learning material for each of those formats
+* Which means we need a publishing system that is flexible enough to handle just about any kind of interactive example an author can think of, and can target it's output for particular book formats
+* So we built this system. 
+* We built what is essentially a CMS that can publish responsively
 * Authors write, pick what format to publish to, and their content gets styled accordingly
 * For the Web, you get embedded video and audio and cool interactive stuff
 * For print, you get links and placeholder images
