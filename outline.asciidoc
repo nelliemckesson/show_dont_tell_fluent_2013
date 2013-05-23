@@ -53,4 +53,4 @@
 * We also built our HTML commenting system to integrate with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 * And in addition to audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 * It's about scalability - a system that can work for almost any author, and build to almost any format.
-* It's called Atlas, it's kind of still in Beta but we want you guys to play around with it. We're really excited about finding new ways to spread the knowledge of innovators.
+* It's called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
