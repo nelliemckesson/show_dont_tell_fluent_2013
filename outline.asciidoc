@@ -79,13 +79,11 @@ We built what is essentially a CMS, without the CMS
 
 A platform built on Git, without all the CMS-y overhead, that can publish long-form content responsively
 
-
-
 So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly. And not just the container is responsive, but the content itself.
 
 For the Web, you get embedded video and audio and cool interactive stuff
 
-For print, you get links and placeholder images
+For print, you get placeholder images and links that point to a web resource
 
 It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button.
 
