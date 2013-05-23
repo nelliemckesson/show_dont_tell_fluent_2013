@@ -93,8 +93,6 @@ It's push-button responsive formatting, and I'm not exaggerating when I say it's
 
 These two things came from the same files
 
-Because the goal is to give people the best learning experience for however they choose to read
-
 Print is still great: UX refined over hundreds of years
 
 But sometimes it's just better to see the technology in action, rather than read a description of it. 
