@@ -66,7 +66,7 @@ Which means we need a publishing system that is flexible enough to handle just a
 
 So we built it. 
 
-We built what is essentially a CMS that can publish responsively
+We built what is essentially a CMS that can publish long-form content responsively
 
 Authors write, pick what format to publish to, and their content gets styled accordingly
 
