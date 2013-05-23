@@ -59,7 +59,7 @@ The Web is where people read, and publishing a book to the web shouldn't be a st
 
 But we don't have the budgets to build custom, one-off products for every book format
 
-Most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
+And most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
 
 But we're not getting 4x the sales
 
