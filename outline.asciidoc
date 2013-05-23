@@ -75,6 +75,12 @@ And we want that content to be the absolute best, prettiest, and most effective 
 
 Which means we need a publishing system that is flexible enough to handle just about any kind of interactive example an author can think of, and can target it's output for particular book formats
 
+You have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
+
+Is an animated page turn adding anything at all to the digital experience? Probably not, but a sticky table of contents does.
+
+And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
+
 But we couldn't really find an existing tool that did all this stuff, so we built one. 
 
 We built what is essentially a CMS that can publish long-form content responsively
@@ -98,12 +104,6 @@ Because the goal is to give people the best learning experience for however they
 Print is still great: UX refined over hundreds of years
 
 But sometimes it's just better to see the technology in action, rather than read a description of it. 
-
-So you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
-
-Is an animated page turn adding anything at all to the digital experience? Probably not, but a sticky table of contents does.
-
-And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
