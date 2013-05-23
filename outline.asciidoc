@@ -57,7 +57,7 @@ That's silly.
 
 The Web is where people read, and publishing a book to the web shouldn't be a strage, out of process thing.
 
-Publishing and Web dev are the same - distributing information
+Publishing a book and developing a website are pretty much the same thing - they're distributing information
 
 But we don't have the budget to build custom, one-off products for every format
 
