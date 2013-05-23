@@ -109,7 +109,7 @@ I can pull in his changes, rebuild with the click of a button, and presto, there
 
 // SLIDE: Comment in reader vs. writer
 
-Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
+Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth.
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
