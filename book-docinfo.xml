@@ -2,6 +2,15 @@
   <firstname>Nellie</firstname>
   <surname>McKesson</surname>
   <authorblurb>
+    
     Nellie McKesson is the Digital Development Manager at O’Reilly Media, where she focuses on front-end Web(ish) development projects, including ebook design and implementation both for devices and the Web, as well as overseeing internal tooling development projects. @NellieMcKesson
+  
+  </authorblurb>
+</author>
+<author>
+  <firstname>Chris</firstname>
+  <surname>Wilson</surname>
+  <authorblurb>
+    Chris Wilson is an Open Web Platform Developer Advocate working on Chrome. He began working on web browsers in 1993 when he co-authored the original Windows version of NCSA Mosaic, went on to Microsoft to work on Internet Explorer for fifteen years, and joined Google in 2010. He has a particular interest in enabling awesome user experiences on the web platform, and is a long-time participant in various web standards working groups. In his free time, he enjoys photography and hiking with his wife and daughter (and their soon-to-be second child), and scuba diving in the tropics as well as the chilly waters of Puget Sound as a PADI Assistant Instructor. You can keep up with Chris on Twitter (http://twitter.com/cwilso) and Flickr (http://flickr.com/photos/cwilso).
   </authorblurb>
 </author>
