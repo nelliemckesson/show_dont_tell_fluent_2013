@@ -95,7 +95,7 @@ So as Chris and I are writing our book together, he can fork my repo, make chang
 
 I can pull in his changes, rebuild with the click of a button, and presto, there it is.
 
-// SLIDE: For above two points, little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
+// SLIDE: For above three points, little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
 We also built our HTML commenting system to integrate with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 
