@@ -79,7 +79,7 @@ But we couldn't really find an existing tool that did all this stuff, so we buil
 
 We built what is essentially a CMS that can publish long-form content responsively
 
-Anyone who works with Content Management Systems knows that when you need to make a system that can scale, and that can meet 90% of potential scenarios
+Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can meet 90% of potential scenarios
 
 So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly
 
