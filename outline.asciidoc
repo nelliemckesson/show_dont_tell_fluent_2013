@@ -35,7 +35,7 @@
 * We need to be able to publish the same source file to every format that customers want to read
 * And we want that content to be the absolute best, prettiest, and most effective learning material for each of those formats
 * Which means we need a publishing system that is flexible enough to handle just about any kind of interactive example an author can think of, and can target it's output for particular book formats
-* So we built this system. 
+* So we built it. 
 * We built what is essentially a CMS that can publish responsively
 * Authors write, pick what format to publish to, and their content gets styled accordingly
 * For the Web, you get embedded video and audio and cool interactive stuff
