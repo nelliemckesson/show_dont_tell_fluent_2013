@@ -41,11 +41,11 @@
 * For the Web, you get embedded video and audio and cool interactive stuff
 * For print, you get links and placeholder images
 * I'm not exaggerating when I say it's push-button
-* We built a lot of plumbing in our toolchain, using markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
+* We built a lot of plumbing in our toolchain, use markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
 * Because the goal is to give people the best learning experience for however they choose to read
 * Print is still great: UX refined over hundreds of years
 * But sometimes it's just better to see the technology in action, rather than read a description of it
-[[MORE CHRIS??]]
+// MORE CHRIS?? ATLAS READER DEMO HERE?
 * By moving both reading and writing to the Web, we can do some really cool stuff
 * First off, we can put the source files in GitHub.
 * So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
