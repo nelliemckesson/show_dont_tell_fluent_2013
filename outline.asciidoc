@@ -27,17 +27,17 @@ You wouldn't think this
 
 I mean, EPUB (format for iPad, Nook and so on) is essentially HTML and CSS, so we basically already convert every book into a little self-contained website
 
+// SLIDE: print book in iPad
+
 but most people have been thinking about ebooks as the same as print
 
 This means they use the same static content
 
-// SLIDE: print book in iPad
+// SLIDE: Sad little HTML on crutches
 
 And a lot of the devices that read EPUB files have generally only built the bare minimum of support for HTML and CSS
 
 It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
-
-// SLIDE: Sad little HTML on crutches
 
 But as Chris showed us, sometimes it's so much more powerful to see something in action
 
