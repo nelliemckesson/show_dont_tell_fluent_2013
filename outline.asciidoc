@@ -51,6 +51,7 @@
 * So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 * I can pull in his changes, rebuild with the click of a button, and presto, there it is.
 * We also built our HTML commenting system to integrate with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
+// SLIDES: COMMENT IN READER VS. WRITER
 * And in addition to audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 * It's about scalability - a system that can work for almost any author, and build to almost any format.
 * It's called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
