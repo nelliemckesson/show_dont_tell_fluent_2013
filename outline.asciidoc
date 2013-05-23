@@ -89,6 +89,8 @@ For print, you get links and placeholder images
 
 It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button
 
+These two things came from the same files
+
 We built a lot of plumbing in our toolchain, use markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
 
 Because the goal is to give people the best learning experience for however they choose to read
