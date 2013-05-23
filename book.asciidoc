@@ -1,0 +1,5 @@
+:bookseries: basic
+
+= Show, Don't Tell
+
+include::outline.asciidoc[]
