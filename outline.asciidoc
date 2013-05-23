@@ -12,11 +12,12 @@
 * Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to trees, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
 * This is the publishing landscape of today.
 * Adding Web publishing into the mix is a total game changer.
-TKTK
-* EPUB is essentially HTML and CSS
+* You wouldn't think this
+* I mean, EPUB is essentially HTML and CSS, so we basically already convert every book into a little self-contained website
 * but most people have been thinking about ebooks as the same as print
-* This means they use the same content
-* And device support for full HTML functionality is a travesty
+* This means they use the same static content
+* And a lot of the devices that read EPUB files have generally only built the bare minimum of support for HTML and CSS
+* It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 * But as Chris showed us, sometimes it's so much more powerful to see something in action
 * And we need full flexibility of Web to show these things
 * And in fact, we've published books to the Web before
