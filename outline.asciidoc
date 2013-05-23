@@ -25,7 +25,7 @@ Adding Web publishing into the mix is a total game changer.
 
 You wouldn't think this
 
-I mean, EPUB (file format for iPad, Nook and so on) is essentially HTML and CSS, so we basically already convert every book into a little self-contained website
+I mean, the ebook files that you read on an iPad or Kindle are essentially HTML and CSS, so we basically already convert every book into a little self-contained website
 
 // SLIDE: print book in iPad
 
