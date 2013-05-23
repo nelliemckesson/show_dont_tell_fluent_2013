@@ -35,6 +35,8 @@ And a lot of the devices that read EPUB files have generally only built the bare
 
 It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
+// SLIDE: Sad little HTML on crutches
+
 But as Chris showed us, sometimes it's so much more powerful to see something in action
 
 And we need full flexibility of Web to show these things
