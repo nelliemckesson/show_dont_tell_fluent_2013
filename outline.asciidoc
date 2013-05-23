@@ -99,17 +99,17 @@ MORE CHRIS?? ATLAS READER DEMO HERE?
 
 By moving both reading and writing to the Web, we can do some really cool stuff
 
+// SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
+
 First off, we can put the source files in GitHub.
 
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with the click of a button, and presto, there it is.
 
-// SLIDE: For above three points, little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
+// SLIDE: Comment in reader vs. writer
 
 We also built our HTML commenting system to integrate with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
-
-// SLIDES: COMMENT IN READER VS. WRITER
 
 And in addition to audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
