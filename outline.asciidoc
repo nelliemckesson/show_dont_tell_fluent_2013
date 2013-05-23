@@ -79,7 +79,7 @@ We built what is essentially a CMS, without the CMS
 
 A platform built on Git, without all the CMS-y overhead, that can publish long-form content responsively
 
-Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can accomodate 90% of potential scenarios
+
 
 So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly
 
@@ -87,13 +87,11 @@ For the Web, you get embedded video and audio and cool interactive stuff
 
 For print, you get links and placeholder images
 
-It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button
+It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button.
 
 // SLIDE: Book and site
 
 These two things came from the same files
-
-We built a lot of plumbing in our toolchain, use markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
 
 Because the goal is to give people the best learning experience for however they choose to read
 
