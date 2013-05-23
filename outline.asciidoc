@@ -97,13 +97,7 @@ Because the goal is to give people the best learning experience for however they
 
 Print is still great: UX refined over hundreds of years
 
-But sometimes it's just better to see the technology in action, rather than read a description of it.
-
-So when it comes to digital, you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
-
-Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents does.
-
-And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both? 
+But sometimes it's just better to see the technology in action, rather than read a description of it. 
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
@@ -127,6 +121,12 @@ And then in addition to regular old audio and video embeds, we use JSBin and ifr
 
 It comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
-As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. TKTK CALL TO ACTION. 
+As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. 
+
+So when it comes to digital, you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
+
+Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents does add something.
+
+And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
 
 The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it. We want everyone to start seriously thinking about the best ways to share information on the Web, and finding new ways to spread the knowledge of innovators.
