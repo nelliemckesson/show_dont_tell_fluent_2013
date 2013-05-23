@@ -125,7 +125,7 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
-When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
+It comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
 As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. TKTK CALL TO ACTION. 
 
