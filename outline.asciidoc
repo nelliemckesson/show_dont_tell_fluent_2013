@@ -95,7 +95,7 @@ These two things came from the same files
 
 Print is still great: UX refined over hundreds of years
 
-But sometimes it's just better to see the technology in action, rather than read a description of it. 
+But sometimes it's just better to see the technology in action, rather than read a description of it. As you're developing your content, and building systems to display it, you have to think about the best possible way to present your ideas in each format in which the book will be read. So not just the container is responsive, but the content itself.
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
