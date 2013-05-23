@@ -5,7 +5,7 @@
 * About the book with Boris
 * A little Atlas Reader demo?? Or do this later?
 
-NELLIE (6-7ish min)
+NELLIE
 
 It seems pretty obvious to publish something like this on the Web, right?
 
