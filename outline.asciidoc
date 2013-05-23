@@ -119,7 +119,7 @@ And then in addition to regular old audio and video embeds, we use JSBin and ifr
 
 It comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
-As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. 
+And as publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. 
 
 You have to think about what makes a book a book, what's the best way present this information, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
 
