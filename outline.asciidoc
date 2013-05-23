@@ -45,7 +45,7 @@
 * Because the goal is to give people the best learning experience for however they choose to read
 * Print is still great: UX refined over hundreds of years
 * But sometimes it's just better to see the technology in action, rather than read a description of it
-// MORE CHRIS?? ATLAS READER DEMO HERE?
+* MORE CHRIS?? ATLAS READER DEMO HERE?
 * By moving both reading and writing to the Web, we can do some really cool stuff
 * First off, we can put the source files in GitHub.
 * So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
