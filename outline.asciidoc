@@ -121,6 +121,6 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 And in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
-It's about scalability - a system that can work for almost any author, and build to almost any format.
+When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
 It's called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
