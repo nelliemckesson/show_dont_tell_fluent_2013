@@ -99,7 +99,7 @@ MORE CHRIS?? ATLAS READER DEMO HERE?
 
 And once you embrace the web for both reading and writing, you're really opening the door for a much more collaborative and interactive experience.
 
-There are lots of tools out there that are perfect for this stuff, so you don't have to reinvent the wheel.
+There are lots of tools out there that are perfect for this stuff.
 
 // SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
