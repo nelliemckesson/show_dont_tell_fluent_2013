@@ -30,7 +30,7 @@ TKTK
 * In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
 * So we need our content to be responsive
 * We need to be able to publish the same source file to every format that customers want to read on
-* And we want that content to be the absolute best and most effective learning material for each of those formats
+* And we want that content to be the absolute best, prettiest, and most effective learning material for each of those formats
 * Which means we need a publishing system that is flexible enough to handle just about any kind of interactive example an author can think of, and can target it's output for particular book formats
 * So we built this system. 
 * We built what is essentially a CMS that can publish responsively
