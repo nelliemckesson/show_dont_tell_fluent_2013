@@ -9,15 +9,17 @@
 * It seems pretty obvious to publish something like this on the Web, right?
 * Best way to really show the awesomeness of this technology.
 * But the truth is, publisher's have it tough.
-* Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to tress, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
+* Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to trees, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
 * This is the publishing landscape of today.
 * Adding Web publishing into the mix is a total game changer.
+TKTK
 * EPUB is essentially HTML and CSS
 * but most people have been thinking about ebooks as the same as print
 * This means they use the same content
 * And device support for full HTML functionality is a travesty
 * But as Chris showed us, sometimes it's so much more powerful to see something in action
 * And we need full flexibility of Web to show these things
+TKTK
 * But we don't have the budget to build custom products for every format
 * We need our content to be responsive
 * And we need our publishing system to be able to be flexible enough to handle just about any kind of interactive example an author can think of
@@ -28,6 +30,7 @@
 * It's all about giving people the best learning experience for however they choose to read
 * Print is still great: UX refined over hundreds of years
 * But sometimes it's just better to see the technology in action, rather than read a description of it
+TKTK
 * By moving both reading and writing to the Web, we can do some really cool stuff
 * First off, we can put the source files in GitHub.
 * So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
