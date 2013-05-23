@@ -103,6 +103,8 @@ So you have to think about what makes a book a book, what's useful for the conte
 
 Is an animated page turn adding anything at all to the digital experience? Probably not, but a sticky table of contents does.
 
+And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
+
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
 By moving both reading and writing to the Web, we can do some really cool stuff
