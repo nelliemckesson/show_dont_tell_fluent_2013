@@ -20,17 +20,19 @@
 * It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 * But as Chris showed us, sometimes it's so much more powerful to see something in action
 * And we need full flexibility of Web to show these things
-* And in fact, we've published books to the Web before
+* Enhanced, longform web publishing isn't brand new
+* We've been seeing more and more cool projects, like the NY Times Snow Fall article, and 
+* And in fact, O'Reilly has published books to the Web before
 * But they've all been custom projects, special snowflakes that existed outside of our normal pubishing workflow
 * That's silly.
 * The Web is where people read.
 * Publishing and Web dev are the same - distributing information
-* But we don't have the budget to build custom products for every format
+* But we don't have the budget to build custom, one-off products for every format
 * Most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
 * But we're not getting 4x the sales
 * In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
 * So we need our content to be responsive
-* We need to be able to publish the same source file to every format that customers want to read on
+* We need to be able to publish the same source file to every format that customers want to read
 * And we want that content to be the absolute best, prettiest, and most effective learning material for each of those formats
 * Which means we need a publishing system that is flexible enough to handle just about any kind of interactive example an author can think of, and can target it's output for particular book formats
 * So we built this system. 
@@ -38,7 +40,9 @@
 * Authors write, pick what format to publish to, and their content gets styled accordingly
 * For the Web, you get embedded video and audio and cool interactive stuff
 * For print, you get links and placeholder images
-* It's all about giving people the best learning experience for however they choose to read
+* I'm not exaggerating when I say it's pushbutton
+* We built a lot of plumbing in our toolchain, using markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
+* Because the goal is to give people the best learning experience for however they choose to read
 * Print is still great: UX refined over hundreds of years
 * But sometimes it's just better to see the technology in action, rather than read a description of it
 TKTK
