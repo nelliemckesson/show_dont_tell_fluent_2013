@@ -15,7 +15,11 @@ But the truth is, publishers have it tough.
 
 Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to trees, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
 
+// SLIDE: All the formats, part 1
+
 This is the publishing landscape of today.
+
+// SLIDE: All the formats, part 2
 
 Adding Web publishing into the mix is a total game changer.
 
