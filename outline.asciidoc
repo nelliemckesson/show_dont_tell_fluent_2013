@@ -125,7 +125,7 @@ As publishing and the Web continue to converge, these kinds of problems and work
 
 You have to think about what makes a book a book, what's the best way present this information, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
 
-Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents probably does add something.
+Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents probably does add something. And so does an embedded audio example or data visualization.
 
 And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
 
