@@ -101,7 +101,7 @@ But sometimes it's just better to see the technology in action, rather than read
 
 So you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
 
-Is an animated page turn adding anything at all to the digital experience? 
+Is an animated page turn adding anything at all to the digital experience? Probably not, but a sticky table of contents does.
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
