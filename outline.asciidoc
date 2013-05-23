@@ -8,7 +8,7 @@
 .NELLIE (4 min)
 * It seems pretty obvious to publish something like this on the Web, right?
 * Best way to really show the awesomeness of this technology.
-* But the truth is, publisher's have it tough.
+* But the truth is, publishers have it tough.
 * Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to trees, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
 * This is the publishing landscape of today.
 * Adding Web publishing into the mix is a total game changer.
