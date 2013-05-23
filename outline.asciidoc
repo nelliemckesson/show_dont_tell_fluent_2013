@@ -81,7 +81,7 @@ A platform built on Git, without all the CMS-y overhead, that can publish long-f
 
 
 
-So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly
+So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly. And not just the container is responsive, but the content itself.
 
 For the Web, you get embedded video and audio and cool interactive stuff
 
@@ -95,7 +95,7 @@ These two things came from the same files
 
 Print is still great: UX refined over hundreds of years
 
-But sometimes it's just better to see the technology in action, rather than read a description of it. As you're developing your content, and building systems to display it, you have to think about the best possible way to present your ideas in each format in which the book will be read. So not just the container is responsive, but the content itself.
+But sometimes it's just better to see the technology in action, rather than read a description of it. As you're developing your content, and building systems to display it, you have to think about the best possible way to present your ideas in each format in which the book will be read. So 
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
