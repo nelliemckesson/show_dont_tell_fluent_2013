@@ -57,8 +57,6 @@ That's silly.
 
 The Web is where people read, and publishing a book to the web shouldn't be a strage, out of process thing.
 
-Publishing a book and developing a website are pretty much the same thing - they're distributing information
-
 But we don't have the budget to build custom, one-off products for every format
 
 Most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
