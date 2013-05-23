@@ -99,7 +99,9 @@ Print is still great: UX refined over hundreds of years
 
 But sometimes it's just better to see the technology in action, rather than read a description of it. 
 
-So you have to think about what makes a book a book, what's useful for the content, what kinds of navigation make sense for the platform, and  
+So you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
+
+Is an animated page turn adding anything at all to the digital experience? 
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
 
