@@ -65,7 +65,7 @@ But we're not getting 4x the sales
 
 In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
 
-So we need our content to be responsive
+So we need our book content to be like our websites: responsive
 
 We need to be able to publish the same source file to every format that customers want to read
 
