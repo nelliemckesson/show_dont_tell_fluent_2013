@@ -109,7 +109,7 @@ There are lots of tools out there that are perfect for this stuff, so you don't 
 
 // SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
-We can put book source files in GitHub.
+We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
