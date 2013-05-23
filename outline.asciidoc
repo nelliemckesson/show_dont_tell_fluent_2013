@@ -73,7 +73,9 @@ And we want that content to be the absolute best, prettiest, and most effective 
 
 But we couldn't really find an existing tool that did all this stuff, so we built one. 
 
-We built what is essentially a CMS that can publish long-form content responsively
+We built what is essentially a CMS without the CMS
+
+A platform without all the CMS-y overhead that can publish long-form content responsively
 
 Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can accomodate 90% of potential scenarios
 
@@ -123,4 +125,4 @@ And then in addition to regular old audio and video embeds, we use JSBin and ifr
 
 When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
-The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
+As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
