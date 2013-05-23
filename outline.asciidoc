@@ -127,4 +127,4 @@ And then in addition to regular old audio and video embeds, we use JSBin and ifr
 
 When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
-As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
+As publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it. We want everyone to start seriously thinking about the best ways to share information on the Web, and finding new ways to spread the knowledge of innovators.
