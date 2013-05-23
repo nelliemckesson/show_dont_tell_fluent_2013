@@ -127,4 +127,4 @@ Is an animated page turn adding anything at all to the digital experience? Proba
 
 And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
 
-We took a stab at tackling some of these questions, and the system that we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it. We want everyone to start seriously thinking about the best ways to share information on the Web, and finding new ways to spread the knowledge of innovators.
+We took a stab at tackling some of these questions, and the system that we built is called Atlas; it's kind of still in Beta but we want you guys to play around with it. We want everyone to start seriously thinking about the best ways to share information on the Web, and finding new ways to spread the knowledge of innovators.
