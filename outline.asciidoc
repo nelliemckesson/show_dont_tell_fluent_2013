@@ -105,9 +105,11 @@ MORE CHRIS?? ATLAS READER DEMO HERE?
 
 And once you embrace the web for both reading and writing, you're really opening the door for a much more collaborative and interactive experience.
 
+There are lots of tools out there that are perfect for this stuff, so you don't have to reinvent the wheel.
+
 // SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
-First off, we can put the source files in GitHub.
+We can put book source files in GitHub.
 
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
