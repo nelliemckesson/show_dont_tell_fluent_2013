@@ -97,7 +97,7 @@ Print is still great: UX refined over hundreds of years
 
 But sometimes it’s just better to see the technology in action, rather than read a description of it
 
-By moving both reading and writing to the Web, we can do some really cool stuff
+And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
 // SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
