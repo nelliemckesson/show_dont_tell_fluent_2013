@@ -110,7 +110,7 @@ But sometimes it’s just better to see the technology in action, rather than re
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
-// SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
+// Can we live demo this?
 
 We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
