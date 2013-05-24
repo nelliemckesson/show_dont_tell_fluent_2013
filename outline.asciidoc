@@ -90,7 +90,11 @@ When you're working with Content Management Systems, you need to make a system t
 
 So in the system we built, authors write in markup, pick what format to publish to, and their content gets converted and styled accordingly. And not just the container is responsive, but the content itself.
 
+// SLIDE: Screenshot of web
+
 For the Web, you get embedded video and audio and cool interactive stuff like the things Chris just demoed
+
+// SLIDE: image of corresponding page in print
 
 For print, you get placeholder images and links pointing to web resources
 
