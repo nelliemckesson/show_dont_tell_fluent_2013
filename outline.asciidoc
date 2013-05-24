@@ -42,6 +42,8 @@ It’s like the browser landscape of 10 years ago, where every browser supported
 
 Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity in books.
 
+// SLIDE: xexbook = HTML + CSS x+ packagex
+
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
 //CW: DEMO: Chris jumps into book showing visual analyzer demo
