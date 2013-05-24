@@ -106,6 +106,7 @@ We can put book source files in GitHub. And we actually built our authoring plat
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with the click of a button, and presto, there it is.
+
 //CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
 
 // SLIDE: Comment in reader vs. writer
