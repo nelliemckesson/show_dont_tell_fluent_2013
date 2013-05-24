@@ -58,9 +58,7 @@ But we don't have the budgets for a hand-crafted enhanced web version of every b
 
 // SLIDE: different ereaders + print book =/= $$$$$$$$$
 
-We're already publishing all these different formats of a book, but we're not getting 4x the sales
-
-In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
+We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
