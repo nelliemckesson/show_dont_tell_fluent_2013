@@ -38,7 +38,7 @@ But a lot of the devices that read ebook files--I mean devices like the Nook and
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity. 
+Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
@@ -66,7 +66,7 @@ So we need our content to be responsive  // KEY POINT!!  -CW
 
 It's the same problem you guys deal with with websites. 
 
-We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual work.
+We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
 
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
