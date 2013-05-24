@@ -110,7 +110,7 @@ But sometimes it’s just better to see the technology in action, rather than re
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
-// Can we live demo this?
+// Figure out if we can live-demo this
 
 //CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
 
