@@ -114,7 +114,7 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 //CW this would be awesome to show
 
-// NM - let's do it! Want to drive while I talk, for the sake of time? We can use this projects as an example.
+// NM - let's do it! Want to drive while I talk, for the sake of time? We can use this very  project as an example.
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
