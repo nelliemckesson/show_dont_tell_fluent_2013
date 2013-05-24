@@ -1,11 +1,14 @@
 == Outline
 
 .CHRIS
+
 * Intro to the Web Audio API
 * About the book with Boris
 * A little Atlas Reader demo?? Or do this later?
 
-NELLIE (8 min ugh)
+"So there's this cool new API in HTML5 that I've been excited about for about a year and a half now - the web audio api.  This API let me build a synthesizer (3 second demo) completely in HTML and Javascript, which I think is really cool.  But one of the challenges  of any new tech like this is effectively educating other developers on how to use APIs like this - although I'm not a Digital Signal Processing expert, I had the benefit of working closely with someone who is, and they helped me understand the API.  So my friend and coworker Boris Smus wrote a book, which I helped review along the way, and we're here to talk about the format of that book."
+
+NELLIE (6-7ish min)
 
 It seems pretty obvious to publish something like this on the Web, right?
 
@@ -14,7 +17,7 @@ Best way to really show the awesomeness of this technology.
 But the truth is, publishers have it tough.
 
 // SLIDE: All the formats, part 1
-
+//CW: Trim this a bit...
 Imagine if, instead of just building responsive sites for mobile, tablets, and desktop, you had to _also_ build content that responds to trees, dead browsers from 10 years ago, and secret government projects that you aren't even allowed to see the code for?
 
 // SLIDE: All the formats, part 2
@@ -22,10 +25,13 @@ Imagine if, instead of just building responsive sites for mobile, tablets, and d
 This is the publishing landscape of today.
 
 Adding Web publishing into the mix is a total game changer.
+//CW: Nellie: "There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.
+
+//CW: DEMO: Chris jumps into book showing visual analyzer demo
 
 You wouldn't think this
 
-I mean, the ebook files that you read on an iPad or Kindle are essentially HTML and CSS, so we basically already convert every book into a little self-contained website
+I mean, EPUB (file format for iPad, Nook and so on) is essentially HTML and CSS, so we basically already convert every book into a little self-contained website
 
 // SLIDE: print book in iPad
 
@@ -35,7 +41,9 @@ This means they use the same static content
 
 // SLIDE: Sad little HTML on crutches
 
-And a lot of the devices that read ebook files have generally only built the bare minimum of support for HTML and CSS
+And a lot of the devices that read EPUB files have generally only built the bare minimum of support for HTML and CSS
+//CW: "...but some of them are much richer, and now we really can show this off."
+//CW - Have you tried the book on new mobile?  I'm wondering if the new Web Audio support in Chrome for Android would work....
 
 It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
@@ -43,11 +51,12 @@ But as Chris showed us, sometimes it's so much more powerful to see something in
 
 And we need full flexibility of Web to show these things
 
+//CW: from here, need to trim dramatically.
 // SLIDE: Long form projects, + links
 
 Enhanced, longform web publishing isn't brand new
 
-We've been seeing more and more cool projects, like the NY Times Snow Fall article.
+We've been seeing more and more cool projects, like the NY Times Snow Fall article, and TKTK
 
 And in fact, O'Reilly has published books to the Web before
 
@@ -55,72 +64,77 @@ But they've all been custom projects, special snowflakes that existed outside of
 
 That's silly.
 
-The Web is where people read, and publishing a book to the web shouldn't be a strange, out-of-process thing.
+The Web is where people read, and publishing a book to the web shouldn't be a strage, out of process thing.
 
-But we don't have the budgets to build custom, one-off products for every book format
+But most publishers don't have the budgets to build custom, one-off products for every format
 
-And most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
+Most publishers already publish to a few different formats: EPUB, MOBI, PDF and Print
 
 But we're not getting 4x the sales
 
 In fact, we're pulling in less money than back in the print-only days, because we're selling the same number of books, but charging less for 75% of what we sell (ie, the ebooks)
 
-So we need our book content to be like our websites: we need it to be responsive
+So we need our content to be responsive  // KEY POINT!!  -CW
 
-We need to be able to publish the same source file to every format that customers want to read.
+We need to be able to publish the same source file to every format that customers want to read
 
 And we want that content to be the absolute best, prettiest, and most effective learning material for each of those formats
 
-But we couldn't really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
+But we couldn't really find an existing tool that did all this stuff, so we built one. 
 
-So we built one. 
+We built what is essentially a CMS that can publish long-form content responsively
+//CW: I think this is the interesting bit...
+Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can accomodate 90% of potential scenarios
 
-We built what is essentially a CMS, without the CMS
-
-A platform built on Git, without all the CMS-y overhead, that can publish long-form content responsively
-
-So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly. And not just the container is responsive, but the content itself.
+So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly
 
 For the Web, you get embedded video and audio and cool interactive stuff
 
-For print, you get placeholder images and links that point to a web resource
+For print, you get links and placeholder images
 
-It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button.
-
-// SLIDE: Book and site
+It's push-button responsive formatting, and I'm not exaggerating when I say it's push-button
 
 These two things came from the same files
 
+We built a lot of plumbing in our toolchain, use markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
+//CW compress from here...
+Because the goal is to give people the best learning experience for however they choose to read
+
 Print is still great: UX refined over hundreds of years
 
-But sometimes it's just better to see the technology in action, rather than read a description of it. As you're developing your content, and building systems to display it, you have to think about the best possible way to present your ideas in each format in which the book will be read.
+But sometimes it's just better to see the technology in action, rather than read a description of it.
+
+So when it comes to digital, you have to think about what makes a book a book, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
+
+Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents does.
+
+And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both? 
 
 MORE CHRIS?? ATLAS READER DEMO HERE?
+//CW I don't think so.  We're tight on time, and embedded demos have been common on web pages for a long time.
 
 And once you embrace the web for both reading and writing, you're really opening the door for a much more collaborative and interactive experience.
 
+There are lots of tools out there that are perfect for this stuff, so you don't have to reinvent the wheel.
+
 // SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
 
+//CW ... to here.
 We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with the click of a button, and presto, there it is.
+//CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
 
 // SLIDE: Comment in reader vs. writer
 
-Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth.
+Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
+//CW this would be awesome to show.
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
-It comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
+When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
-And as publishing and the Web continue to converge, these kinds of problems and workflows are going to gain more and more attention. 
-
-You have to think about what makes a book a book, what's the best way present this information, what's useful for the content, how are people going to be looking at the content and what kinds of navigation and extras make sense for the platform?
-
-Is an animated page turn adding anything at all to the digital experience? Probably not--it's actually probably just adding distraction--but a sticky table of contents probably does add something. And so does an embedded audio example or data visualization.
-
-And do pages make sense on a screen, or are you better off with a scroll, or maybe a mix of both?
-
-We took a stab at tackling some of these questions, and the system that we built is called Atlas; it's kind of still in Beta but we want you guys to play around with it. We want everyone to start seriously thinking about the best ways to create and share information on the Web, and finding new ways to spread the knowledge of innovators.
+The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we're really excited about finding new ways to spread the knowledge of innovators.
+//CW: Good close.
