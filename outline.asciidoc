@@ -95,7 +95,7 @@ We built a lot of plumbing in our toolchain, use markup for our source authoring
 
 Print is still great: UX refined over hundreds of years
 
-But sometimes it’s just better to see the technology in action, rather than read a description of it
+But sometimes it’s just better to see the technology in action, rather than read a description of it.
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
