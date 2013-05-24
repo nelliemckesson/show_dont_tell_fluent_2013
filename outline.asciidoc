@@ -52,6 +52,8 @@ By getting rid of the special book packaging and moving to the web for reals, we
 
 So cool, right? But publishers can't just get rid of the ebook package, because people still want to read that way, and we can't get rid of print for the same reason. 
 
+// SLIDE: Publish All the Formats!
+
 So in addition to pubishing all the book formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
 
 But we don't have the budgets for a hand-crafted enhanced web version of every book.
