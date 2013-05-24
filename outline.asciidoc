@@ -18,8 +18,6 @@ But the truth is, publishers have it tough.
 
 // SLIDE: All the formats, part 1
 
-//CW: Trim this a bit...
-
 Imagine if, instead of just building responsive sites for the usual displays, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
 
 // SLIDE: All the formats, part 2
