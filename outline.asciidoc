@@ -20,7 +20,7 @@ But the truth is, publishers have it tough.
 
 //CW: Trim this a bit...
 
-Imagine if, instead of just building responsive sites for the usual output, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
+Imagine if, instead of just building responsive sites for the usual displays, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
 
 // SLIDE: All the formats, part 2
 
@@ -28,7 +28,7 @@ This is the publishing landscape of today.
 
 Adding Web publishing into the mix is a total game changer.
 
-//CW: Nellie: "There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.
+//CW: Nellie: "
 
 You wouldn't think this
 
@@ -36,13 +36,13 @@ I mean, ebooks are essentially HTML and CSS at their core, so we basically alrea
 
 // SLIDE: Sad little HTML on crutches
 
-And a lot of the devices that read EPUB files--I mean the Nook, the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
+And a lot of the devices that read EPUB files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-//NEW, per CW's comments:
+Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity. 
 
-Stop thinking about publishing and Web as distinct things. By getting rid of the special book packaging and moving to the web for reals, we can really show this off
+By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
 //CW: DEMO: Chris jumps into book showing visual analyzer demo
 
