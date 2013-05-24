@@ -88,19 +88,17 @@ When you're working with Content Management Systems, you need to make a system t
 
 So in the system we built, authors write in markup, pick what format to publish to, and their content gets converted and styled accordingly. And not just the container is responsive, but the content itself.
 
-// SLIDE: Screenshot of web
+image::images/fluent-2013.012.png[]
 
 For the Web, you get embedded video and audio and cool interactive stuff like the things Chris just demoed
 
-// SLIDE: image of corresponding page in print
+image::images/fluent-2013.013.png[]
 
 For print, you get placeholder images and links pointing to web resources
 
-// SLIDE: Print and HTML version of Web Audio
+image::images/fluent-2013.014.png[]
 
 These two things came from exactly the same files
-
-// --
 
 Print is still great: UX refined over hundreds of years
 
@@ -126,15 +124,17 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 // NM - let's do it! Want to drive while I talk, for the sake of time? We could use the Web Audio book as an example, since it has a lot of comments. Or we can use this project if you feel weird using Boris's book. (Click the comment bubble at right to see some of the comments the oreilly team made on the outline, which I published privately here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html)
 
-// SLIDE: JSBin
+image::images/fluent-2013.015.png[]
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
-// SLIDE: scalability something or other
+image::images/fluent-2013.016.png[]
 
 When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
 Publishing and the web are going to continue to converge, as more and more reading moves to the Web.
+
+image::images/fluent-2013.017.png[]
 
 The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we have the same goals - distributing information - and we're really excited about working with you to find new ways to spread the knowledge of innovators.
 
