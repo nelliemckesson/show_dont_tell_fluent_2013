@@ -72,7 +72,7 @@ So we need our content to be responsive  // KEY POINT!!  -CW
 
 It's the same problem you guys deal with with websites. 
 
-// SLIDE: single source
+// SLIDE: single source pub
 
 We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
 
