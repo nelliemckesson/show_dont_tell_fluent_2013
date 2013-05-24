@@ -28,7 +28,7 @@ Adding Web publishing into the mix is a total game changer.
 
 You wouldn't think this
 
-// ebook = HTML + CSS + package
+// SLIDE: ebook = HTML + CSS + package
 
 I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
