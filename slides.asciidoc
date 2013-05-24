@@ -36,7 +36,7 @@ You wouldn't think this
 
 I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
-// SLIDE: Sad little HTML on crutches
+// SLIDE: HTML with holes
 
 But a lot of the devices that read ebook files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
