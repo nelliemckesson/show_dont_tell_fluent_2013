@@ -78,7 +78,7 @@ For the Web, you get embedded video and audio and cool interactive stuff
 
 For print, you get links and placeholder images
 
-// SLIDE: Print and HTML version
+// SLIDE: Print and HTML version of Web Audio
 
 These two things came from exactly the same files
 
