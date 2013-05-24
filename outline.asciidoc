@@ -71,12 +71,14 @@ In fact, we're pulling in less money than back in the print-only days, because w
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
-We need to be able to publish the same source file to every format that customers want to read
+But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
-But we couldn't really find an existing tool that did all this stuff, so we built one. 
+So we built one.
 
-We built what is essentially a CMS that can publish long-form content responsively
+We built what is essentially a CMS, without the CMS that can publish long-form content responsively
+
 //CW: I think this is the interesting bit...
+
 Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can accomodate 90% of potential scenarios
 
 A platform built on Git, without all the CMS-y overhead, that can publish long-form content responsively
