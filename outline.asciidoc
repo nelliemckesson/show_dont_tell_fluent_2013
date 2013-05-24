@@ -68,6 +68,8 @@ We're already publishing all these different formats of a book, but we're not ge
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
+// SLIDE: Responsive (obey)
+
 It's the same problem you guys deal with with websites. 
 
 We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
