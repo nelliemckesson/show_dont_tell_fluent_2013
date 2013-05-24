@@ -66,9 +66,9 @@ But we don't have the budgets for a hand-crafted enhanced web version of every b
 
 We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
 
-So we need our content to be responsive  // KEY POINT!!  -CW
-
 // SLIDE: Responsive (obey)
+
+So we need our content to be responsive  // KEY POINT!!  -CW
 
 It's the same problem you guys deal with with websites. 
 
