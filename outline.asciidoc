@@ -34,7 +34,7 @@ I mean, ebooks are essentially HTML and CSS at their core, so we basically alrea
 
 // SLIDE: Sad little HTML on crutches
 
-But a lot of the devices that read EPUB files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
+But a lot of the devices that read ebook++ files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
