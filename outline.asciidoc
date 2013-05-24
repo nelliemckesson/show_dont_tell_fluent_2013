@@ -51,9 +51,7 @@ By getting rid of the special book packaging and moving to the web for reals, we
 
 Enhanced, longform web publishing isn't brand new
 
-We've been seeing more and more cool projects, like the NY Times Snow Fall article, and TKTK
-
-And in fact, O'Reilly has published books to the Web before
+We've been seeing more and more cool projects, like the NY Times Snow Fall article, and in fact, O'Reilly has published books to the Web before
 
 But they've all been custom projects, special snowflakes that existed outside of our normal pubishing workflow
 
