@@ -72,7 +72,7 @@ We built what is essentially a CMS but without all the CMS-y overhead--it's a pl
 
 //CW: I think this is the interesting bit...
 
-When you're working with Content Management Systems, you need to make a system that can scale, and that can accomodate like 90% of potential scenarios
+When you're working with Content Management Systems, you need to make a system that can scale, and that can accomodate like 90% of potential scenarios out of the box
 
 So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly. And not just the container is responsive, but the content itself.
 
