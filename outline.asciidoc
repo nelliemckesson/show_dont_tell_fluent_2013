@@ -16,11 +16,11 @@ Best way to really show the awesomeness of this technology.
 
 But the truth is, publishers have it tough.
 
-// SLIDE: All the formats, part 1
+image::images/fluent-2013.002.png[]
 
 Imagine if, instead of just building responsive sites for the usual displays, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
 
-// SLIDE: All the formats, part 2
+image::images/fluent-2013.003.png[]
 
 This is the publishing landscape of today.
 
@@ -28,21 +28,21 @@ Adding Web publishing into the mix is a total game changer.
 
 You wouldn't think this
 
-// SLIDE: ebook = HTML + CSS + package
+image::images/fluent-2013.004.png[]
 
 I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
-// SLIDE: HTML with holes
+image::images/fluent-2013.005.png[]
 
 But a lot of the devices that read ebook files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-// SLIDE: Pub + Web venn
+image::images/fluent-2013.006.png[]
 
 Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity in books.
 
-// SLIDE: xexbook = HTML + CSS x+ packagex + "Hey Chris, do a demo!"
+image::images/fluent-2013.007.png[]
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
@@ -56,31 +56,29 @@ By getting rid of the special book packaging and moving to the web for reals, we
 
 So cool, right? But publishers can't just get rid of the ebook package, because people still want to read that way, and we can't get rid of print for the same reason. 
 
-// SLIDE: Publish All the Formats!
+image::images/fluent-2013.008.png[]
 
 So in addition to pubishing all the ebook formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
 
 But we don't have the budgets for a hand-crafted enhanced web version of every book.
 
-// SLIDE: different ereaders + print book =/= $$$$$$$$$
+image::images/fluent-2013.009.png[]
 
 We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
 
-// SLIDE: Responsive (obey)
+image::images/fluent-2013.010.png[]
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
 It's the same problem you guys deal with with websites. 
 
-// SLIDE: single source pub
+image::images/fluent-2013.011.png[]
 
 We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
 
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
 So we built one.
-
-// SLIDE: Git + Markup + Magic + CSS
 
 We built what is essentially a CMS but without all the CMS-y overhead--it's a platform built on Git that can publish long-form content responsively
 
