@@ -62,6 +62,8 @@ In fact, we're pulling in less money than back in the print-only days, because w
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
+It's the same problem you guys deal with with websites. 
+
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
 So we built one.
