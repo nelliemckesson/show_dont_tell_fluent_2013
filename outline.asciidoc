@@ -1,9 +1,5 @@
 == Outline
 
-image::images/fluent-2013.001.png[]
-
-// @chris: check out latest slides here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html (you'll need to be signed in, using same email address you use for Atlas Writer...ie, this site right here...)
-
 CHRIS
 
 * Intro to the Web Audio API
@@ -20,11 +16,11 @@ Best way to really show the awesomeness of this technology.
 
 But the truth is, publishers have it tough.
 
-image::images/fluent-2013.002.png[]
+// SLIDE: All the formats, part 1
 
 Imagine if, instead of just building responsive sites for the usual displays, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
 
-image::images/fluent-2013.003.png[]
+// SLIDE: All the formats, part 2
 
 This is the publishing landscape of today.
 
@@ -32,21 +28,21 @@ Adding Web publishing into the mix is a total game changer.
 
 You wouldn't think this
 
-image::images/fluent-2013.004.png[]
+// SLIDE: ebook = HTML + CSS + package
 
 I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
-image::images/fluent-2013.005.png[]
+// SLIDE: HTML with holes
 
 But a lot of the devices that read ebook files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-image::images/fluent-2013.006.png[]
+// SLIDE: Pub + Web venn
 
 Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity in books.
 
-image::images/fluent-2013.007.png[]
+// SLIDE: xexbook = HTML + CSS x+ packagex + "Hey Chris, do a demo!"
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
@@ -60,29 +56,31 @@ By getting rid of the special book packaging and moving to the web for reals, we
 
 So cool, right? But publishers can't just get rid of the ebook package, because people still want to read that way, and we can't get rid of print for the same reason. 
 
-image::images/fluent-2013.008.png[]
+// SLIDE: Publish All the Formats!
 
 So in addition to pubishing all the ebook formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
 
 But we don't have the budgets for a hand-crafted enhanced web version of every book.
 
-image::images/fluent-2013.009.png[]
+// SLIDE: different ereaders + print book =/= $$$$$$$$$
 
 We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
 
-image::images/fluent-2013.010.png[]
+// SLIDE: Responsive (obey)
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
-It's the same problem you guys deal with with websites. 
+It's the same problem you guys deal with with websites. // CW: "...taken even further than usual."
 
-image::images/fluent-2013.011.png[]
+// SLIDE: single source pub
 
 We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
 
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
 So we built one.
+
+// SLIDE: Git + Markup + Magic + CSS
 
 We built what is essentially a CMS but without all the CMS-y overhead--it's a platform built on Git that can publish long-form content responsively
 
@@ -92,17 +90,19 @@ When you're working with Content Management Systems, you need to make a system t
 
 So in the system we built, authors write in markup, pick what format to publish to, and their content gets converted and styled accordingly. And not just the container is responsive, but the content itself.
 
-image::images/fluent-2013.012.png[]
+// SLIDE: Screenshot of web
 
 For the Web, you get embedded video and audio and cool interactive stuff like the things Chris just demoed
 
-image::images/fluent-2013.013.png[]
+// SLIDE: image of corresponding page in print
 
 For print, you get placeholder images and links pointing to web resources
 
-image::images/fluent-2013.014.png[]
+// SLIDE: Print and HTML version of Web Audio
 
 These two things came from exactly the same files
+
+// --
 
 Print is still great: UX refined over hundreds of years
 
@@ -128,17 +128,15 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 // NM - let's do it! Want to drive while I talk, for the sake of time? We could use the Web Audio book as an example, since it has a lot of comments. Or we can use this project if you feel weird using Boris's book. (Click the comment bubble at right to see some of the comments the oreilly team made on the outline, which I published privately here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html)
 
-image::images/fluent-2013.015.png[]
+// SLIDE: JSBin
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
-image::images/fluent-2013.016.png[]
+// SLIDE: scalability something or other
 
 When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
 Publishing and the web are going to continue to converge, as more and more reading moves to the Web.
-
-image::images/fluent-2013.017.png[]
 
 The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we have the same goals - distributing information - and we're really excited about working with you to find new ways to spread the knowledge of innovators.
 
