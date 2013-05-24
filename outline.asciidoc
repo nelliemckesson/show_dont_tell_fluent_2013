@@ -80,8 +80,6 @@ For print, you get links and placeholder images
 
 These two things came from the same files
 
-We built a lot of plumbing in our toolchain, use markup for our source authoring format, and custom XSL conversions and CSS for each format, so that authors and our production teams can make beautiful books with ease
-
 // --
 
 Print is still great: UX refined over hundreds of years
