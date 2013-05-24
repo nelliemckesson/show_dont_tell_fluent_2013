@@ -112,13 +112,13 @@ And once you embrace the web for both reading and writing, you’re really openi
 
 // Can we live demo this?
 
+//CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
+
 We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
 So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with a few clicks, and presto, there's the latest version of the book.
-
-//CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
 
 // SLIDE: Comment in reader vs. writer
 
