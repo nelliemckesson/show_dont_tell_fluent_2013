@@ -42,7 +42,7 @@ But a lot of the devices that read ebook files--I mean devices like the Nook and
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
+Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
