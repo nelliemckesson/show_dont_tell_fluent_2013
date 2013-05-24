@@ -56,7 +56,7 @@ So in addition to pubishing all the book formats, and the print format, we need 
 
 But we don't have the budgets for a hand-crafted enhanced web version of every book.
 
-// SLIDE: different ereaders + print book
+// SLIDE: different ereaders + print book =/= $$$$$$$$$
 
 We're already publishing all these different formats of a book, but we're not getting 4x the sales
 
