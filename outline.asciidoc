@@ -64,6 +64,8 @@ So we need our content to be responsive  // KEY POINT!!  -CW
 
 It's the same problem you guys deal with with websites. 
 
+We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual work.
+
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
 So we built one.
