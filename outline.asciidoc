@@ -1,5 +1,7 @@
 == Outline
 
+image::images/fluent-2013.001.png[]
+
 CHRIS
 
 * Intro to the Web Audio API
