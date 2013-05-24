@@ -28,15 +28,17 @@ Adding Web publishing into the mix is a total game changer.
 
 You wouldn't think this
 
+// ebook = HTML + CSS + package
+
 I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
-// SLIDE: Sad little HTML on crutches
+// SLIDE: HTML with holes
 
 But a lot of the devices that read ebook files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
 It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
 
-Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
+Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
