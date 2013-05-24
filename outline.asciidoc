@@ -30,31 +30,23 @@ Adding Web publishing into the mix is a total game changer.
 
 //CW: Nellie: "There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.
 
-//CW: DEMO: Chris jumps into book showing visual analyzer demo
-
 You wouldn't think this
 
-I mean, EPUB (file format for iPad, Nook and so on) is essentially HTML and CSS, so we basically already convert every book into a little self-contained website
-
-// SLIDE: print book in iPad
-
-but most people have been thinking about ebooks as the same as print
-
-This means they use the same static content
+I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
 
 // SLIDE: Sad little HTML on crutches
 
-And a lot of the devices that read EPUB files have generally only built the bare minimum of support for HTML and CSS
+And a lot of the devices that read EPUB files--I mean the Nook, the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
 
-//CW: "...but some of them are much richer, and now we really can show this off."
+It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
+
+//NEW, per CW's comments:
+
+Stop thinking about publishing and Web as distinct things. By getting rid of the special book packaging and moving to the web for reals, we can really show this off
+
+//CW: DEMO: Chris jumps into book showing visual analyzer demo
 
 //CW - Have you tried the book on new mobile?  I'm wondering if the new Web Audio support in Chrome for Android would work....
-
-It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
-
-But as Chris showed us, sometimes it's so much more powerful to see something in action
-
-And we need full flexibility of Web to show these things
 
 //CW: from here, need to trim dramatically.
 // SLIDE: Long form projects, + links
