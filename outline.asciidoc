@@ -40,7 +40,7 @@ It’s like the browser landscape of 10 years ago, where every browser supported
 
 // SLIDE: Pub + Web venn
 
-Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
+Once we stop thinking about publishing and Web as distinct things, there's a real opportunity to use the richness of the web publishing platform to enahnce interactivity in books.
 
 By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
 
