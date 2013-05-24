@@ -132,6 +132,8 @@ Another thing we added to the system we built was to integrate the HTML commenti
 
 And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
+// SLIDE: scalability
+
 When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
 
 Publishing and the web are going to continue to converge, as more and more reading moves to the Web.
