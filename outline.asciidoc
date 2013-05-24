@@ -54,7 +54,7 @@ So cool, right? But publishers can't just get rid of the ebook package, because 
 
 // SLIDE: Publish All the Formats!
 
-So in addition to pubishing all the book formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
+So in addition to pubishing all the ebook formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
 
 But we don't have the budgets for a hand-crafted enhanced web version of every book.
 
