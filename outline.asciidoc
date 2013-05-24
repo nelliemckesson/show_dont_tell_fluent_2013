@@ -73,15 +73,15 @@ So we need our content to be responsive  // KEY POINT!!  -CW
 
 We need to be able to publish the same source file to every format that customers want to read
 
-And we want that content to be the absolute best, prettiest, and most effective learning material for each of those formats
-
 But we couldn't really find an existing tool that did all this stuff, so we built one. 
 
 We built what is essentially a CMS that can publish long-form content responsively
 //CW: I think this is the interesting bit...
 Anyone who works with Content Management Systems knows that you need to make a system that can scale, and that can accomodate 90% of potential scenarios
 
-So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly
+A platform built on Git, without all the CMS-y overhead, that can publish long-form content responsively
+
+So in the system we built, authors write, pick what format to publish to, and their content gets styled accordingly. And not just the container is responsive, but the content itself.
 
 For the Web, you get embedded video and audio and cool interactive stuff
 
