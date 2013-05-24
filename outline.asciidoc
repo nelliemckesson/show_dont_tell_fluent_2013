@@ -27,6 +27,7 @@ Imagine if, instead of just building responsive sites for the usual output, you 
 This is the publishing landscape of today.
 
 Adding Web publishing into the mix is a total game changer.
+
 //CW: Nellie: "There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.
 
 //CW: DEMO: Chris jumps into book showing visual analyzer demo
@@ -44,7 +45,9 @@ This means they use the same static content
 // SLIDE: Sad little HTML on crutches
 
 And a lot of the devices that read EPUB files have generally only built the bare minimum of support for HTML and CSS
+
 //CW: "...but some of them are much richer, and now we really can show this off."
+
 //CW - Have you tried the book on new mobile?  I'm wondering if the new Web Audio support in Chrome for Android would work....
 
 It's like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
