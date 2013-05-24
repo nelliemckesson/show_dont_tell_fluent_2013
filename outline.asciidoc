@@ -1,6 +1,6 @@
 == Outline
 
-.CHRIS
+CHRIS
 
 * Intro to the Web Audio API
 * About the book with Boris
@@ -8,7 +8,7 @@
 
 "So there's this cool new API in HTML5 that I've been excited about for about a year and a half now - the web audio api.  This API let me build a synthesizer (3 second demo) completely in HTML and Javascript, which I think is really cool.  But one of the challenges  of any new tech like this is effectively educating other developers on how to use APIs like this - although I'm not a Digital Signal Processing expert, I had the benefit of working closely with someone who is, and they helped me understand the API.  So my friend and coworker Boris Smus wrote a book, which I helped review along the way, and we're here to talk about the format of that book."
 
-NELLIE (6-7ish min)
+NELLIE
 
 It seems pretty obvious to publish something like this on the Web, right?
 
