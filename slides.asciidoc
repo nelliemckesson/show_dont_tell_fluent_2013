@@ -1,3 +1,129 @@
 == View Slides
 
 Placeholder
+
+== Outline
+
+CHRIS
+
+* Intro to the Web Audio API
+* About the book with Boris
+* A little Atlas Reader demo?? Or do this later?
+
+"So there's this cool new API in HTML5 that I've been excited about for about a year and a half now - the web audio api.  This API let me build a synthesizer (3 second demo) completely in HTML and Javascript, which I think is really cool.  But one of the challenges  of any new tech like this is effectively educating other developers on how to use APIs like this - although I'm not a Digital Signal Processing expert, I had the benefit of working closely with someone who is, and they helped me understand the API.  So my friend and coworker Boris Smus wrote a book, which I helped review along the way, and we're here to talk about the format of that book."
+
+NELLIE
+
+It seems pretty obvious to publish something like this on the Web, right?
+
+Best way to really show the awesomeness of this technology.
+
+But the truth is, publishers have it tough.
+
+// SLIDE: All the formats, part 1
+
+Imagine if, instead of just building responsive sites for the usual displays, you had to _also_ build content that responds to trees and dead browsers from 10 years ago?
+
+// SLIDE: All the formats, part 2
+
+This is the publishing landscape of today.
+
+Adding Web publishing into the mix is a total game changer.
+
+You wouldn't think this
+
+// ebook = HTML + CSS + package
+
+I mean, ebooks are essentially HTML and CSS at their core, so we basically already convert every book into a little self-contained website
+
+// SLIDE: Sad little HTML on crutches
+
+But a lot of the devices that read ebook files--I mean devices like the Nook and the Kindle--many of these devices have only built the bare minimum of support for HTML and CSS, because they're curating what features to support based on what _they think_ a book needs.
+
+It’s like the browser landscape of 10 years ago, where every browser supported different features and you had to jump through hoops to get your sites to work everywhere, and ended up compromising on functionality
+
+Stop thinking about publishing and Web as distinct things. There's a real opportunity to use the richness of the web publishing platform to enahnce interactivity.  redefine book
+
+By getting rid of the special book packaging and moving to the web for reals, we can really show this off.
+
+//CW: DEMO: Chris jumps into book showing visual analyzer demo
+
+//CW - Have you tried the book on new mobile?  I'm wondering if the new Web Audio support in Chrome for Android would work....
+
+// NM - I *think* we tested this, and discovered it didn't work?
+
+//CW: from here, need to trim dramatically.
+
+So cool, right? But publishers can't just get rid of the ebook package, because people still want to read that way, and we can't get rid of print for the same reason. 
+
+// SLIDE: Publish All the Formats!
+
+So in addition to pubishing all the ebook formats, and the print format, we need to add in an interactive Web format as well, that includes extra cool content like those live demos.
+
+But we don't have the budgets for a hand-crafted enhanced web version of every book.
+
+// SLIDE: different ereaders + print book =/= $$$$$$$$$
+
+We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
+
+So we need our content to be responsive  // KEY POINT!!  -CW
+
+It's the same problem you guys deal with with websites. 
+
+We need to be able to take the same source files and publish them to print, ebook, and the web without any extra manual conversion work.
+
+But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
+
+So we built one.
+
+We built what is essentially a CMS but without all the CMS-y overhead--it's a platform built on Git that can publish long-form content responsively
+
+//CW: I think this is the interesting bit...
+
+When you're working with Content Management Systems, you need to make a system that can scale, and that can accomodate like 90% of potential scenarios right out of the box
+
+So in the system we built, authors write in markup, pick what format to publish to, and their content gets converted and styled accordingly. And not just the container is responsive, but the content itself.
+
+For the Web, you get embedded video and audio and cool interactive stuff like the things Chris just demoed
+
+For print, you get placeholder images and links pointing to web resources
+
+// SLIDE: Print and HTML version of Web Audio
+
+These two things came from exactly the same files
+
+// --
+
+Print is still great: UX refined over hundreds of years
+
+But sometimes it’s just better to see the technology in action, rather than read a description of it.
+
+And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
+
+// SLIDE: Little video playing in background: chris forking, editing, sending pull request, me accepting, rebuilding, thumbs up!
+
+We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
+
+So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
+
+I can pull in his changes, rebuild with a few clicks, and presto, there's the latest version of the book.
+
+//CW: this would be great if we have time. - just flip to GitHub live, have me add my name as coauthor to your book :).
+
+// SLIDE: Comment in reader vs. writer
+
+Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
+
+//CW this would be awesome to show
+
+// NM - let's do it! Want to drive while I talk, for the sake of time? We could use the Web Audio book as an example, since it has a lot of comments. Or we can use this project if you feel weird using Boris's book. (Click the comment bubble at right to see some of the comments the oreilly team made on the outline, which I published privately here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html)
+
+And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
+
+When you're dealing with lots of varying long form content, it comes down to scalability - you need a system that can work for almost any author, and build to almost any format.
+
+Publishing and the web are going to continue to converge, as more and more reading moves to the Web.
+
+The system we built is called Atlas, it's kind of still in Beta but we want you guys to play around with it, because we have the same goals - distributing information - and we're really excited about working with you to find new ways to spread the knowledge of innovators.
+
+//CW: Good close.
