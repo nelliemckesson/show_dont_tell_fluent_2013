@@ -2,6 +2,8 @@
 
 image::images/fluent-2013.001.png[]
 
+// @chris: check out latest slides here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html (you'll need to be signed in, using same email address you use for Atlas Writer...ie, this site right here...)
+
 CHRIS
 
 * Intro to the Web Audio API
