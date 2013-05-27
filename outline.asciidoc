@@ -80,8 +80,6 @@ But we couldn’t really find a single existing tool that could create all these
 
 So we built one.
 
-// SLIDE: Git + Markup + Magic + CSS
-
 We built what is essentially a CMS but without all the CMS-y overhead--it's a platform built on Git that can publish long-form content responsively
 
 //CW: I think this is the interesting bit...
