@@ -90,9 +90,9 @@ image::images/fluent-2013.011.png[]
 
 // SLIDE: Responsive Pub
 
-So we need our content to be responsive  // KEY POINT!!  -CW
+So we need our content to be responsive
 
-It's the same problem you guys deal with with websites. // CW: "...taken even further than usual."
+It's the same problem you guys deal with with websites, taken even further than usual."
 
 image::images/fluent-2013.012.png[]
 
