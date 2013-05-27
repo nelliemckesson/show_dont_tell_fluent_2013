@@ -66,7 +66,7 @@ But we don't have the budgets for a hand-crafted enhanced web version of every b
 
 We're already publishing all these different formats of a book, but we're not getting 4x the sales. It's the same number of sales, spread over different book formats.
 
-// SLIDE: Responsive (obey)
+// SLIDE: Responsive Pub
 
 So we need our content to be responsive  // KEY POINT!!  -CW
 
@@ -79,8 +79,6 @@ We need to be able to take the same source files and publish them to print, eboo
 But we couldn’t really find a single existing tool that could create all these book formats and give us the Web reading experience we wanted our customers to have
 
 So we built one.
-
-// SLIDE: Git + Markup + Magic + CSS
 
 We built what is essentially a CMS but without all the CMS-y overhead--it's a platform built on Git that can publish long-form content responsively
 
