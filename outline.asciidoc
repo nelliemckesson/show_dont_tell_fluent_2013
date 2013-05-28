@@ -160,6 +160,8 @@ image::images/fluent-2013.017.png[]
 
 Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 
+// More about comments/example
+
 image::images/fluent-2013.018.png[]
 
 // SLIDE: JSBin
