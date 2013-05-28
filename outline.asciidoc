@@ -90,9 +90,9 @@ image::images/fluent-2013.011.png[]
 
 // SLIDE: Responsive Pub
 
-So we need our content to be responsive
+So we need our content to be responsive.
 
-It's the same problem you guys deal with with websites, taken even further than usual."
+It's the same problem you guys deal with with websites, taken even further than usual.
 
 image::images/fluent-2013.012.png[]
 
@@ -129,8 +129,6 @@ image::images/fluent-2013.015.png[]
 // SLIDE: Print and HTML version of Web Audio
 
 These two things came from exactly the same files
-
-// --
 
 Print is still great: UX refined over hundreds of years
 
