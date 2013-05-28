@@ -134,6 +134,8 @@ Print is still great: UX refined over hundreds of years
 
 But sometimes it’s just better to see the technology in action, rather than read a description of it.
 
+// Move iframes/jsbin here
+
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
 image::images/fluent-2013.016.png[]
