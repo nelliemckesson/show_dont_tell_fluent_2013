@@ -180,6 +180,8 @@ image::images/fluent-2013.020.png[]
 
 // SLIDE: close
 
+// add note - beta, using in actual production though
+
 The system we built is called Atlas, it's still in Beta but we want you guys to play around with it, because we have the same goals - distributing information - and we're really excited about working with you to find new ways to spread the knowledge of innovators.
 
 //CW: Good close.
