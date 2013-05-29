@@ -134,7 +134,11 @@ Print is still great: UX refined over hundreds of years
 
 But sometimes it’s just better to see the technology in action, rather than read a description of it.
 
-// Move iframes/jsbin here
+image::images/fluent-2013.018.png[]
+
+// SLIDE: JSBin
+
+In addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want.
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
@@ -146,7 +150,7 @@ image::images/fluent-2013.016.png[]
 
 We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
-So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
+So as Chris and I are writing our book together, he can fork the repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with a few clicks, and presto, there's the latest version of the book.
 
@@ -160,13 +164,7 @@ image::images/fluent-2013.017.png[]
 
 Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 
-// More about comments/example
-
-image::images/fluent-2013.018.png[]
-
-// SLIDE: JSBin
-
-And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
+So if you take this presentation as an example, Chris lives in Seattle, I live in Boston, and we also wanted to get feedback from the whole development team.
 
 image::images/fluent-2013.019.png[]
 

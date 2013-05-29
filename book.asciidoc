@@ -2,4 +2,6 @@
 
 = Show, Don't Tell
 
-include::outline.asciidoc[]
+include::readme.asciidoc[]
+
+include::video.asciidoc[]
