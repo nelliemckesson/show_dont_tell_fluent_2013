@@ -162,9 +162,11 @@ image::images/fluent-2013.017.png[]
 
 // NM - let's do it! Want to drive while I talk, for the sake of time? We could use the Web Audio book as an example, since it has a lot of comments. Or we can use this project if you feel weird using Boris's book. (Click the comment bubble at right to see some of the comments the oreilly team made on the outline, which I published privately here: http://chimera.labs.oreilly.com/books/1234000001701/ch01.html)
 
-Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
+Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth.
 
-So if you take this presentation as an example, Chris lives in Seattle, I live in Boston, and we also wanted to get feedback from the whole development team.
+For exaple, as we were developing this talk, there was a lot of remote participation. Chris lives in Seattle, I live in Boston, and we also wanted to get feedback from the whole development team. Everyone discussed the outline in the reading environment as it developed, and their comments bubbled back to the writing environment, for Chris and I to consider as we finalized the talk.
+
+The goal is to build a more collaborative learning community, rather than just having distinct endpoints of author and reader.
 
 image::images/fluent-2013.019.png[]
 
