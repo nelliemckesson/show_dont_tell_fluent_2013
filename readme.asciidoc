@@ -134,7 +134,11 @@ Print is still great: UX refined over hundreds of years
 
 But sometimes it’s just better to see the technology in action, rather than read a description of it.
 
-// Move iframes/jsbin here
+image::images/fluent-2013.018.png[]
+
+// SLIDE: JSBin
+
+And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
@@ -161,12 +165,6 @@ image::images/fluent-2013.017.png[]
 Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 
 So if you take this presentation as an example, Chris lives in Seattle, I live in Boston, and we also wanted to get feedback from the whole development team.
-
-image::images/fluent-2013.018.png[]
-
-// SLIDE: JSBin
-
-And then in addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want
 
 image::images/fluent-2013.019.png[]
 
