@@ -146,7 +146,7 @@ image::images/fluent-2013.016.png[]
 
 We can put book source files in GitHub. And we actually built our authoring platform on Git for this very purpose, so you're using the same tools to write a book that you use to write code.
 
-So as Chris and I are writing our book together, he can fork my repo, make changes, send me pull requests to update
+So as Chris and I are writing our book together, he can fork the repo, make changes, send me pull requests to update
 
 I can pull in his changes, rebuild with a few clicks, and presto, there's the latest version of the book.
 
