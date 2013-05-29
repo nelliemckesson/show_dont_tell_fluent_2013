@@ -138,7 +138,7 @@ image::images/fluent-2013.018.png[]
 
 // SLIDE: JSBin
 
-In addition to regular old audio and video embeds, we use JSBin and iframes so you can embed just about anything you want.
+To that end, in addition to regular old audio and video embeds, we built support for JSBin and iframe embeds in the web books, so you can embed just about anything you want.
 
 And once you embrace the web for both reading and writing, you’re really opening the door for a much more collaborative and interactive experience.
 
