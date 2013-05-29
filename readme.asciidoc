@@ -160,7 +160,7 @@ image::images/fluent-2013.017.png[]
 
 Another thing we added to the system we built was to integrate the HTML commenting system with the authoring GUI, so authors can incorporate comments as they write, without jumping back and forth
 
-// More about comments/example
+So if you take this presentation as an example, Chris lives in Seattle, I live in Boston, and we also wanted to get feedback from the whole development team.
 
 image::images/fluent-2013.018.png[]
 
